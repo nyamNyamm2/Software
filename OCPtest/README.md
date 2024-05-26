@@ -1,1 +1,1 @@
-![Alt text] (C:/2024-1/OCP.png)
+![Alt text](/path/to/OCP.png)
