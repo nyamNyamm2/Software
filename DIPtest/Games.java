@@ -1,6 +1,7 @@
 package DIPtest;
 
-public class Games
+// 게임서버에 영향을 주는 게임의 추가 삭제를 다른 클래스로 묶어 설계
+public abstract class Games
 {
     public String title, ver;
 
