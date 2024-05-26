@@ -1,1 +1,1 @@
-![ex_screenshot](./OCP.png)
+![OCP UML class](./OCP.png)
