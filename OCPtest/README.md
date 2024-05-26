@@ -1,1 +1,1 @@
-![Alt text](/C:/2024-1/Software/OCPtest/OCP.png)
+![ex_screenshot](./OCP.png)
