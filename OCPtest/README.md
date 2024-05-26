@@ -1,1 +1,1 @@
-![Alt text](/path/to/OCP.png)
+![Alt text](/OCP.png)
